@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AfternoonJetpack</string>
+    <string name="title_activity_layout">LayoutActivity</string>
+    <string name="title_activity_image">ImageActivity</string>
+    <string name="title_activity_pizza">PizzaActivity</string>
+    <string name="title_activity_text_field">TextField</string>
+    <string name="title_activity_food">FoodActivity</string>
+    <string name="title_activity_card">cardActivity</string>
+    <string name="title_activity_assignment">AssignmentActivity</string>
+    <string name="title_activity_search">SearchActivity</string>
+</resources>
